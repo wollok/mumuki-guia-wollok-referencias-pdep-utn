@@ -1,0 +1,15 @@
+/*[IgnoreContentOnQuery]*/
+
+/*...extra...*/
+
+test "el nieto de abuelaClotilde es fito" {
+ assert.that(clotilde.nieto() == fito)
+}
+
+
+test "abuelaClotilde.alimentarNieto() incrementa lo engorda 3 kg" {
+  clotilde.alimentarNieto()
+  assert.equals(81, fito.peso())
+}
+
+

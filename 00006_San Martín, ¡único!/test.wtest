@@ -1,0 +1,15 @@
+test 'libertador hace referencia a sanMartin' {
+  /*...content...*/
+  assert.equals(sanMartin, libertador)
+}
+
+test 'donJose hace referencia a sanMartin' {
+  /*...content...*/
+  assert.equals(sanMartin, donJose)
+}
+
+test 'San martin luchó una batalla' {
+  /*...content...*/
+  assert.equals(1, sanMartin.batallas())
+  
+}
