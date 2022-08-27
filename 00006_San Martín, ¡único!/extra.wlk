@@ -4,5 +4,5 @@ object sanMartin {
   method batallas(){ return batallas }
   method darBatalla() { batallas = batallas + 1 }
 }
+
 var libertador = sanMartin
-var donJose = sanMartin
