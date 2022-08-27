@@ -1,4 +1,3 @@
-/*[IgnoreContentOnQuery]*/
 
 object sanMartin {
   var batallas = 0
