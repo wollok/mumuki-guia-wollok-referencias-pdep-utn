@@ -6,5 +6,3 @@ object sanMartin {
 }
   
 var libertador = sanMartin
-
-/*...content...*/
