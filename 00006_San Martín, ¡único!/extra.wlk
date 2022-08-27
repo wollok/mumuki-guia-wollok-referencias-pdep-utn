@@ -6,3 +6,4 @@ object sanMartin {
   method darBatalla() { batallas = batallas + 1 }
 }
   
+var libertador = sanMartin
